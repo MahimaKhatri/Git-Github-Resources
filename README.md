@@ -39,7 +39,7 @@
 <div align='center'>  
   
   
-## Git Commands
+## Basic Git Commands
   
  </div> 
 
@@ -53,3 +53,17 @@
 | `git push -u origin master` | Push your changes to remote repository |
 
 **[⬆ Back to Top](https://github.com/MahimaKhatri/Git-Github-Resources/blob/master/README.md#git-and-github-resources-books)**
+
+
+
+
+### Working on Existing Projects
+
+| Command | Description |
+| ------- | ----------- |
+| `git clone ssh://git@github.com/<username>/<repository-name>.git` | Create a local copy of a remote repo using SSH |
+| `git clone https://github.com/<username>/<repository-name>.git` | Create a local copy of a remote repo using HTTPS |
+
+**[⬆ Back to Top](https://github.com/MahimaKhatri/Git-Github-Resources/blob/master/README.md#git-and-github-resources-books)**
+
+
