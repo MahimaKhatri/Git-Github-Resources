@@ -52,4 +52,4 @@
 | `git remote add origin git@github.com:<username>/<repository-name>.git` | Add upstream repo to publish commits at (the remote repo) |
 | `git push -u origin master` | Push your changes to remote repository |
 
-**[⬆ Back to Top](#GitandGithubResources)**
+**[⬆ Back to Top](https://github.com/MahimaKhatri/Git-Github-Resources/blob/master/README.md#git-and-github-resources-books)**
