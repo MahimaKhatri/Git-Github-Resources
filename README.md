@@ -36,6 +36,20 @@
   - Debain based distro : `sudo apt-get install git`
   - Fedora based distro : `sudo yum install git`
 
+<div align='center'>  
   
+  
+## Git Commands
+  
+ </div> 
 
- 
+ ### Creating a New Repository
+ | Command | Description |
+| ------- | ----------- |
+| `git init` | Initialize a local Git repository |
+| `git add .` | Add all files in the working directory to the staging area |
+| `git commit -m "<commit message>"` | Commit your changes |
+| `git remote add origin git@github.com:<username>/<repository-name>.git` | Add upstream repo to publish commits at (the remote repo) |
+| `git push -u origin master` | Push your changes to remote repository |
+
+**[⬆ Back to Top](#GitandGithubResources)**
