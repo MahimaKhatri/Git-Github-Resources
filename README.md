@@ -99,4 +99,17 @@
 **[⬆ Back to Top](https://github.com/MahimaKhatri/Git-Github-Resources/blob/master/README.md#git-and-github-resources-books)**
 
 
+<div align='center'>  
+  
+  
+## More Git Resources
+  
+ </div>
+ 
+* [Git Reference](http://gitref.org/)
+* [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - An interactive Git visualization to challenge and educate!
+* [Git: The Simple Guide](http://rogerdudler.github.com/git-guide) - No deep knowledge is required
+* [Git-It](https://github.com/jlord/git-it-electron#what-to-install) - an app that teaches you git via challenges in the terminal
+* [Visual Git CheatSheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index) - for those who are visual learners
+
 
