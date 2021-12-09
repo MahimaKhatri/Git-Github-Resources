@@ -67,3 +67,36 @@
 **[⬆ Back to Top](https://github.com/MahimaKhatri/Git-Github-Resources/blob/master/README.md#git-and-github-resources-books)**
 
 
+### Essential Commands
+
+| Command | Description |
+| ------- | ----------- |
+| `git add <file-name.txt>` | Add a single file to the staging area |
+| `git add -A` | Add all files in all directories to the staging area |
+| `git rm -r . --cached` | Remove all files recursively from staging area |
+| `git status` | See details about the current branch |
+| `git show` | Shows changes in committed files |
+| `git log` | View changes in commit history |
+| `git branch` | List branches (the * is the current branch) |
+| `git branch -a` | List all branches (local and remote) |
+| `git branch <branch name>` | Create a new local branch |
+| `git branch -d <branch name>` | Delete a local branch |
+| `git push origin --delete <branch name>` | Delete a remote branch |
+| `git checkout -b <branch name>` | Create a new local branch and switch to it |
+| `git checkout <branch name>` | Switch to a branch |
+| `git merge <branch name>` | Merge a branch into the active branch |
+| `git merge <source branch> <target branch>` | Merge a branch into a target branch 
+|`git push origin <branch name>` | Push a branch to your remote repo |
+| `git push -u origin <branch name>` | Push changes to remote repo (and remember the branch) |
+| `git push` | Push changes to remote repo (only if you have previously set a remote origin) |
+| `git push origin --delete <branch name>` | Delete a remote branch |
+| `git pull` | Synchronize local repo with remote repo |
+| `git pull origin <branch name>` | Pull changes from remote repo |
+| `git fetch` | Checks to see if there are any changes on the remote repo (does not pull changes) | 
+| `git remote -v` | Shows URLs of remote repositories when listing your current remote connections |
+| `git remote add origin ssh://git@github.com/<username>/<repository-name>.git`| Add upstream repo to publish commits at (the remote repo) |
+
+**[⬆ Back to Top](https://github.com/MahimaKhatri/Git-Github-Resources/blob/master/README.md#git-and-github-resources-books)**
+
+
+
