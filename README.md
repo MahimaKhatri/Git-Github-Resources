@@ -112,6 +112,10 @@
 * [Git-It](https://github.com/jlord/git-it-electron#what-to-install) - an app that teaches you git via challenges in the terminal
 * [Visual Git CheatSheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index) - for those who are visual learners
 
+
+
+
+
 <div align='center'>  
   
   
@@ -120,6 +124,11 @@
  </div>
 
 GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. It allows real-time collaboration and encourages teams to work together to build and edit their site content.
+
+
+
+
+
 
 <div align='center'>  
   
