@@ -120,3 +120,11 @@
  </div>
 
 GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. It allows real-time collaboration and encourages teams to work together to build and edit their site content.
+
+<div align='center'>  
+  
+  
+## Github Resources
+  
+ </div>
+
