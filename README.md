@@ -136,4 +136,12 @@ GitHub is a web-based interface that uses Git, the open source version control s
 ## Github Resources
   
  </div>
+ 
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+* [GitHub CLI](https://cli.github.com) - GitHub’s official command line tool.
+* [GitHub Education](https://github.com/education)
+* [Top GitHub best practices guide for developers](https://www.datree.io/resources/github-best-practices) - List of best practices to follow when managing repositories on GitHub.
+* [Github URL Shortener](http://git.io) - Tool to shorten the URLs
+* [Emoji Searcher](http://emoji.muan.co/) - Emoji finder.
+* [Github Student Developer Pack](https://education.github.com/pack) - All the information regarding Student Developer Pack
 
