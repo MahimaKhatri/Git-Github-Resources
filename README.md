@@ -145,3 +145,11 @@ GitHub is a web-based interface that uses Git, the open source version control s
 * [Emoji Searcher](http://emoji.muan.co/) - Emoji finder.
 * [Github Student Developer Pack](https://education.github.com/pack) - All the information regarding Student Developer Pack
 
+
+<div align='center'>  
+  
+  
+## Thank You! :innocent:
+  
+ </div>
+
